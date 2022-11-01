@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+    jakld_env:
+        container_name: java
+        build:
+            context: .
+            dockerfile: Dockerfile
+        volumes:
+            - ./JAKLD:/home/JAKLD
+        working_dir: /home/JAKLD
