@@ -12,7 +12,7 @@ Docker environment is used for running JAKLD easily.
 Run as bellow.
 
 ```shell
-git clone ...
+git clone https://github.com/kahunsyo/jakld.git
 cd jakld
 docker-compose run java Eval
 ```
