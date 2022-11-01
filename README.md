@@ -14,7 +14,7 @@ Run as bellow.
 ```shell
 git clone https://github.com/kahunsyo/jakld.git
 cd jakld
-docker-compose run jakld_env java Eval
+docker-compose run jakld_env java Eval #launch interactive prompt
 ```
 
 ## reference
