@@ -1,6 +1,6 @@
 # Yuasa's JAKLD and docker environment
 
-This repository contains as bellow.
+This repository contains:
 
 - Yuasa's JAKLD  
 - docker environment
